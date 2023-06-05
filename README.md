@@ -1,3 +1,3 @@
-#Learn CSS variables
-Stack: HTML, CSS
-In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want.
+# Learn CSS variables
+### Stack: HTML, CSS
+The goal this project is build a city skyline, learn how to configure CSS variables.
